@@ -1,0 +1,5 @@
+a = input()
+b = input()
+ans = int(a)//int(b)
+ans = str(ans)
+print(ans +" km/h")
